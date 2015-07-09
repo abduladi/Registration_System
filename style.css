@@ -1,0 +1,25 @@
+#content {
+	width:500px;
+	margin:10px auto;
+	padding:15px;
+	background:#00CC66;
+}
+#content h2 {
+	color:#FFFFFF;
+}
+a:link {
+	text-decoration:none;
+	color:#FF0000;
+}
+label {
+	display:block;
+}
+input[type=submit] {
+	display:block;
+	margin-top:10px;
+	font-weight:bold
+}
+.error {
+	color:#FF0000;
+	margin:0 5px;
+}
